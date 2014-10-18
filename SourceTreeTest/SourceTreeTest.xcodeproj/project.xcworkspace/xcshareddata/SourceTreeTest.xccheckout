@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>967EF19E-A391-4B25-B57F-EDC3F0AA009F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SourceTreeTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2033EB3C3BB713B34025305F5E55DE57FB915826</key>
+		<string>https://github.com/FBLife/TestSourceTree.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SourceTreeTest/SourceTreeTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2033EB3C3BB713B34025305F5E55DE57FB915826</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/FBLife/TestSourceTree.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2033EB3C3BB713B34025305F5E55DE57FB915826</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2033EB3C3BB713B34025305F5E55DE57FB915826</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestSourceTree</string>
+		</dict>
+	</array>
+</dict>
+</plist>
